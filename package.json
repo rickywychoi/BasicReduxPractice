@@ -4,12 +4,17 @@
   "private": true,
   "dependencies": {
     "bootstrap": "^4.3.1",
+    "deep-extend": "^0.6.0",
     "extend": "^3.0.2",
+    "merge": "^1.2.1",
+    "randomatic": "^3.1.1",
     "react": "^16.8.6",
+    "react-dev-utils": "^8.0.0",
     "react-dom": "^16.8.6",
     "react-redux": "^7.0.2",
-    "react-scripts": "1.0.13",
-    "redux": "^4.0.1"
+    "react-scripts": "^2.1.8",
+    "redux": "^4.0.1",
+    "webpack-dev-server": "^3.3.1"
   },
   "scripts": {
     "start": "react-scripts start",
